@@ -51,6 +51,7 @@ If you want to create a new project, do the following:
 [Definitely up to date list is here](https://github.com/chi-immigration-task-force/getting-started/issues?q=is%3Aopen+is%3Aissue+label%3Aprojects%2Fproposed)
 
 - Find datasets that would allow us to measure the likelihood of deportation based on whether or not you have an attorney. This was powerful data that convinced new york to provide free legal services for immigrants.([Link](https://github.com/chi-immigration-task-force/getting-started/issues/3))
+- Create a place / site that people can go to find ways to help the immigrant community. AKA centralize and perpetuate some of the ways to get involved that are passed among people in this group but not recorded anywhere. ([Link](https://github.com/chi-immigration-task-force/getting-started/issues/6))
 
 ### Projects on hold
 [Definitely up to date list is here](https://github.com/chi-immigration-task-force/getting-started/issues?q=is%3Aopen+is%3Aissue+label%3Aprojects%2Fon-hold)
