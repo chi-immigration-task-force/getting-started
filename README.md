@@ -1,5 +1,5 @@
 ## Description of the group
-Our goal is to work on projects that will help people immigrants, refugees,
+Our goal is to work on projects that will help immigrants, refugees,
 and people who are being deported or are at risk of deportation.
 Primarily, we want to be a resource for existing organizations that
 are working on these issues.
