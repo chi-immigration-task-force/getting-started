@@ -8,6 +8,8 @@ If you have an idea for a project and want to chat about it with the group,
 follow the instructions below under **projects** and then come by ChiHackNight
 to tell us about it!
 
+UPDATE: We've moved to being at ChiHackNight every other week, choosing to work from some other locations on off weeks (TBD exactly where). Check our (hopefully) [up to date calendar](https://calendar.google.com/calendar/embed?src=5gn3ram5pjb3hlibver41fq3rc%40group.calendar.google.com&ctz=America/Chicago) for where we will be!
+
 ## Getting Started
 We hang out in the #immigrationtaskforce channel of the
 [chihacknight slack](https://chihacknight.slack.com/).
